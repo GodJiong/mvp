@@ -6,7 +6,7 @@ android {
 
 
     defaultConfig {
-        applicationId "com.wj.mvp"
+        applicationId "com.wj.login"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
