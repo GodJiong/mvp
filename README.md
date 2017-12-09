@@ -9,4 +9,4 @@
 
 
 # 微信公众号
-![image](https://github.com/GodJiong/mvp/blob/master/mvp/src/main/res/drawable/qrcode.png)
+![image](https://github.com/GodJiong/mvp/blob/master/mvp/src/main/res/drawable/qrcode.jpg)
