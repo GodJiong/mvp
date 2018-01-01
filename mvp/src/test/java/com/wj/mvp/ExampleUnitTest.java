@@ -1,4 +1,4 @@
-package com.csii.mvp;
+package com.wj.mvp;
 
 import org.junit.Test;
 

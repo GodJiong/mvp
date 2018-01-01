@@ -1,4 +1,4 @@
-package com.csii.mvp;
+package com.wj.mvp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.csii.todoapp", appContext.getPackageName());
+        assertEquals("com.csii.mvp", appContext.getPackageName());
     }
 }
